@@ -3,6 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Beach Resort App
 
 I created an application for a beach resort where you can see the rooms, the prices and also informations about the resort.
+You can see the site [here](https://admiring-hawking-b2013c.netlify.com/).
+
 ### Home Page
 
 In the home page I added a navbar with a title and 2 links Home and Rooms, also I added some services information, a banner with a button to the rooms page and some featured rooms displayed at the bottom.
