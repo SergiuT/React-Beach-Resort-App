@@ -18,8 +18,11 @@ You can see the site [here](https://admiring-hawking-b2013c.netlify.com/).
 
 ### Technology Used
 
+* HTML
+* CSS
 * Bootstrap
 * React
+* React-Router
 
 
 
